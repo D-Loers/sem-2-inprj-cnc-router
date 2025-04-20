@@ -1,0 +1,1 @@
+This CNC GUI application communicates with the ESP32 acting as a server over a TCP connection to send commands and receive status updates.at tab 5 you can set up the connection

@@ -1,0 +1,5 @@
+i chose for the ADXL345 because this is an accelerometer with no added unecessary features and is an accurate accelerometer.
+
+the ADXL345 works over i2c so it was easy to compare it to the MPU9250.
+
+the code used for testing is mainly from a library, however i have added some modifications to determine the position of the accelerometer.

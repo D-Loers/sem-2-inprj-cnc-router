@@ -1,0 +1,1 @@
+this esp32 application listens for connections from the GUI application. It receives commands to start or stop a process and sends corresponding responses back to the client.

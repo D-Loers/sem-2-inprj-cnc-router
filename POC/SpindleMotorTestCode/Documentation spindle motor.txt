@@ -1,0 +1,3 @@
+Documentation spindle motor.
+
+Currently I am using the XD-37GB555 motor. If you refer to the datasheet you can see that the operating voltage is 12v. To power the motor for the POC code, I used a lab power supply set to 12v to power the motor.

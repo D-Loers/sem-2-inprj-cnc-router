@@ -1,0 +1,5 @@
+i chose for the mpu9250 because it has an accelerometer, gyroscope and magnetometer. that means that for the application of the mpu9250 it is very accurate because it has multiple sensors.
+
+the mpu9250 works over i2c so it needs to be connected to the 5v, ground, scl and sda pins in order to work. 
+
+the code used is mainly from a library that was used, this library is the mpu9250 library from Hideaki Tai. this library is quite simple and has easy to understand methods.

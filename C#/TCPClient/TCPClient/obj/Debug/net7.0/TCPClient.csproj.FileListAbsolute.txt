@@ -1,0 +1,17 @@
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\bin\Debug\net7.0\TCPClient.exe
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\bin\Debug\net7.0\TCPClient.deps.json
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\bin\Debug\net7.0\TCPClient.runtimeconfig.json
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\bin\Debug\net7.0\TCPClient.dll
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\bin\Debug\net7.0\TCPClient.pdb
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.AssemblyInfoInputs.cache
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.AssemblyInfo.cs
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.dll
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\refint\TCPClient.dll
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.pdb
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.genruntimeconfig.cache
+C:\Users\Naad1\OneDrive\Documenten\Semester2_2\ES\Sprint3\Sockets\TCP C#\TCPClient\TCPClient\obj\Debug\net7.0\ref\TCPClient.dll
+D:\group-project\C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.dll
+D:\group-project\C#\TCPClient\TCPClient\obj\Debug\net7.0\refint\TCPClient.dll
+D:\group-project\C#\TCPClient\TCPClient\obj\Debug\net7.0\TCPClient.pdb

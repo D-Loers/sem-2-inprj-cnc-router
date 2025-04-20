@@ -1,0 +1,22 @@
+touchscreen documentation for button press:
+
+The tft file is the converted hmi file that is  used with nextion editor to edit the gui and activate event handlers for it. The event handler are when the buttons is pressed on the touchscreen, it prints 1 when button on is pressed and prints 0 when button off is pressed. when you are done editing you can convert the hmi file to tft and put it in a SD card and insert it to the touchscreen and upload to the touchscreen. to start uploading just insert the sd card when the touch screen is turned off and then turn it on. when it reaches 100% you can turn the touch screen off and remove the sd card and then turn it on and you should be good to go.
+
+
+to connect the arduino code with the touchscreen:
+
+First this code recieves 1 and 0 to indicate if the led should be turned on or off. to upload the code you first have to make sure the rx and tx pins are not in use by the touchscreen yet. then if you are finished uploading then connect the rx tx pins of the touch screens to the arduino tx rx. and then everything should work
+
+
+
+The layout for the touch screen:
+
+rx = tx arduino
+tx = rx arduino 
+- = GND pin arduino
++ = 5volt
+
+
+
+
+

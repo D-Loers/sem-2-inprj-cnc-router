@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yy9NLC+G2b5PfzTXMDgXhf6k9cYY2ORYrvYNaU0E8fPKnysYc+XAOcRRN0CElyhEzRAUldOUpWv//CDoq+DNTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Naad1\\OneDrive\\Documenten\\Semester2_2\\ES\\Sprint3\\Sockets\\TCP C#\\TCPClient\\TCPClient\\TCPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naad1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Naad1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Naad1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Naad1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

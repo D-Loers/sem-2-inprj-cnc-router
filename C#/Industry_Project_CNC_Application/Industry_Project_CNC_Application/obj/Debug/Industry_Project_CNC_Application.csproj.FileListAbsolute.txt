@@ -1,0 +1,73 @@
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe.config
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.AssemblyReference.cache
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Form1.resources
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Properties.Resources.resources
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.GenerateResource.cache
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.CoreCompileInputs.cache
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.exe
+C:\Users\tevin\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.AssemblyReference.cache
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Form1.resources
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Properties.Resources.resources
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.GenerateResource.cache
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.CoreCompileInputs.cache
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe.config
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.exe
+C:\Users\Heaven\OneDrive\Documents\$emester 2 tech\industry project\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.pdb
+<<<<<<< HEAD
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe.config
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.AssemblyReference.cache
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Form1.resources
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Properties.Resources.resources
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.GenerateResource.cache
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.CoreCompileInputs.cache
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.exe
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.pdb
+=======
+>>>>>>> main
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe.config
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.AssemblyReference.cache
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Form1.resources
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Properties.Resources.resources
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.GenerateResource.cache
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.CoreCompileInputs.cache
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.exe
+C:\Users\lisac\OneDrive\Documenten\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe.config
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.AssemblyReference.cache
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Form1.resources
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Properties.Resources.resources
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.GenerateResource.cache
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.CoreCompileInputs.cache
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.exe
+C:\Users\Naad1\Documents\Plantastic\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.pdb
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe.config
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.pdb
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.AssemblyReference.cache
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Form1.resources
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Properties.Resources.resources
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.GenerateResource.cache
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.CoreCompileInputs.cache
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.exe
+D:\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe.config
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.exe
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\bin\Debug\Industry_Project_CNC_Application.pdb
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.AssemblyReference.cache
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Form1.resources
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.Properties.Resources.resources
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.GenerateResource.cache
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.csproj.CoreCompileInputs.cache
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.exe
+C:\Users\DLoer\Fontys Eindhoven\LJ1\Semester 2\Industry Project\group-project\C#\Industry_Project_CNC_Application\Industry_Project_CNC_Application\obj\Debug\Industry_Project_CNC_Application.pdb
